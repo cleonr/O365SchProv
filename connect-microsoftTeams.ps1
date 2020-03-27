@@ -14,7 +14,7 @@ Import-Module MicrosoftTeams
 
 #Conexiones
 #Connect-MicrosoftTeams -Credential $credential
-
+#cualquier cosa
 #Definiciones
 $listacursos= "A1","A2","A3"
 #Define Curso
